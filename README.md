@@ -30,6 +30,3 @@ https://dummyjson.com/carts
 ```bash
 npm install
 npm run dev
-```bash
-npm install
-npm run dev
